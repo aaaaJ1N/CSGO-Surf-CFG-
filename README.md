@@ -2,7 +2,7 @@
  <h4 align="center">适用于CSGO滑翔surftimer插件的CFG预设文件</h3> 
   
  <p align="center"> 
-   使用介绍 | 
+   | 使用介绍 | 
  </p> 
   
  <div align="center"> 
