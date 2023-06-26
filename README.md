@@ -34,26 +34,14 @@
   
  ## 下载 
   
- [Releases](https://github.com/Purple-CSGO/CSGO-Config-Presets/releases) 
+ [Releases](https://github.com) 
   
- [天翼云](https://cloud.189.cn/t/ZfM3Y3FZR7v2) （访问码：fbv3） 
+ 
   
  ## 用法 
   
- 见 [使用文档](https://config.upup.cool/) 
+ 见 [使用文档](https:) 
   
  ## 翻译 
   
- 如果你想参与翻译工作，将预设翻译为其他语言，请提交PR，或在[issues](https://github.com/Purple-CSGO/CSGO-Config-Presets/issues)中提出。 
-  
- ## 捐赠 
-  
- 捐赠请备注昵称和`CFG捐赠`以便区分： 
-  
- - 支付宝： 
-  
- <img src="./img/支付宝.png" alt="Alipay" style="zoom: 80%;" /> 
-  
- - 微信： 
-  
- <img src="./img/微信.png" alt="Wechat" style="zoom:80%;" />
+ 如果你想参与翻译工作，将预设翻译为其他语言，请提交PR，或在[issues](https://github.com/)中提出
