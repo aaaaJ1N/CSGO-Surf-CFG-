@@ -1,5 +1,5 @@
 <h1 align="center">CSGO Surf CFG预设</h1> 
- <h4 align="center">适用于CSGO滑翔surftimer插件的CFG预设文件</h3> 
+ <h4 align="center">适用于CSGO滑翔surftimer插件的CFG预设文件  由于工作等不可抗拒因素 本项目暂时搁置进度</h3> 
   
  <p align="center"> 
    | 使用介绍 | 
@@ -13,9 +13,9 @@
   
    项目始于2023年4月，鉴于大众对CSGO滑翔中Surftimer插件的指令汉化以及使用方法对应的使用场景不同的解释以及教学 注释详细： 
   
- | 使用场景          | 文件名称              | 
+ | 指令列表          | 中文介绍              | 
  |:-------------:|:-----------------:| 
- | 游戏设置          | `auto.cfg`        | 
+ |           | ``        | 
  | 准星参数（使用跳投）    | `crosshair.cfg`   | 
  | 跑图指令          | `practice.cfg`    | 
  | 本地solo        | `solo.cfg`        | 
