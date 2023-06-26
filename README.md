@@ -3,7 +3,6 @@
   
  <p align="center"> 
    简体中文 | 
-   <a href="https://github.com/Purple-CSGO/CSGO-Config-Presets/blob/En-US/README.md">English</a> 
  </p> 
   
  <div align="center"> 
