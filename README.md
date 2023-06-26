@@ -16,12 +16,12 @@
  | 指令列表          | 中文介绍              | 
  |:-------------:|:-----------------:| 
  |           |     -   | 
- | 准星参数（使用跳投）    | `crosshair.cfg`   | 
- | 跑图指令          | `practice.cfg`    | 
- | 本地solo        | `solo.cfg`        | 
- | 观看demo        | `demo.cfg`        | 
- | 录制集锦素材        | `hlae.cfg`        | 
- | 自拍杆视角         | `cals.cfg`        | 
+ |     | ``   | 
+ |           | ``    | 
+ |         | ``        | 
+ |         | ``        | 
+ |         | ``        | 
+ |         | ``        | 
  | ffmpeg录制      | `ffmpeg.cfg`      | 
  | 分层录制          | `stream.cfg`      | 
  | 分层录制（新）          | `stream.cfg`      | 
